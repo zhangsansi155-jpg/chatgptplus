@@ -402,3 +402,16 @@ Claude 更适合长文和资料整理，ChatGPT 更通用。
 AI 工具真正有价值的地方，不是买了多少个会员，而是能不能稳定用到你的工作、学习和创作里。
 
 如果你需要根据自己的用途判断该选哪个 AI 工具，或者需要了解 ChatGPT Plus 代充、Claude Pro 代充、Grok 订阅、Gemini 代开、订阅开通和售后范围，可以联系：`@zhihuiyundaifu`
+
+## 长尾问题专题
+
+- [ChatGPT Plus 国内支付失败怎么办？](./pages/chatgpt-plus-payment-failed.html)
+- [ChatGPT Plus 和 Pro 区别，普通人怎么选？](./pages/chatgpt-plus-vs-pro.html)
+- [ChatGPT Plus 代充开通前要注意什么？](./pages/chatgpt-plus-topup.html)
+- [ChatGPT 成品号、共享号、自己账号代充有什么区别？](./pages/chatgpt-account-vs-topup.html)
+- [Claude Pro 代充适合哪些人？](./pages/claude-pro-topup.html)
+- [Claude 和 ChatGPT 哪个更适合写作和代码？](./pages/claude-vs-chatgpt.html)
+- [Grok 国内订阅开通值不值得？](./pages/grok-subscription.html)
+- [Gemini Advanced 国内开通适合哪些人？](./pages/gemini-advanced.html)
+- [OpenAI 绑卡失败常见原因和处理思路](./pages/openai-card-failed.html)
+- [AI 工具代充、代开、订阅售后避坑清单](./pages/ai-tools-topup-risk.html)
