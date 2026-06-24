@@ -1,8 +1,26 @@
-# ChatGPT、Claude、Grok、Gemini 订阅选择与代充避坑指南
+# ChatGPT Plus 购买与 AI 会员代充指南
+
+提供 ChatGPT Plus 购买、ChatGPT Plus 代充、ChatGPT Pro 代充、Claude Pro 代充、Grok 会员订阅、Gemini Advanced 开通等 AI 工具订阅说明，适合国内支付失败、绑卡失败、无法订阅、需要售后质保说明的用户参考。
+
+**服务范围：** ChatGPT Plus / Pro、Claude Pro、Grok、Gemini Advanced。  
+**常见需求：** AI 会员购买、订阅开通、代充代开、国内支付失败处理、绑卡失败处理、到账时间咨询、售后质保说明、使用教程。  
+**联系方式：** `@zhihuiyundaifu`
 
 > 适合不知道该买哪个 AI 工具、国内订阅失败、支付失败、需要了解 ChatGPT 代充、Claude 代充、Grok 代充、Gemini 代开、Plus / Pro / Advanced 区别的用户阅读。
 
-如果你不确定 ChatGPT、Claude、Grok、Gemini 哪个更适合自己，或者遇到国内订阅、代充开通、支付失败、账号风控等问题，可以联系：`@zhihuiyundaifu`
+如果你不确定 ChatGPT、Claude、Grok、Gemini 哪个更适合自己，或者遇到国内订阅、代充开通、支付失败、账号风控、到账时间、售后质保等问题，可以联系：`@zhihuiyundaifu`
+
+## 支持的 AI 会员订阅服务
+
+| 产品 | 常见搜索需求 | 适合人群 |
+| --- | --- | --- |
+| ChatGPT Plus | ChatGPT Plus 购买、ChatGPT Plus 代充、OpenAI 支付失败 | 日常办公、学习、写作、通用 AI 使用 |
+| ChatGPT Pro | ChatGPT Pro 代充、ChatGPT Pro 购买、Pro 订阅开通 | 高频重度用户、专业创作、深度研究 |
+| Claude Pro | Claude Pro 代充、Claude 购买、Claude 国内订阅 | 长文写作、论文润色、代码理解、资料总结 |
+| Grok | Grok 会员、Grok 订阅、Grok 国内开通 | 热点追踪、自媒体、X 平台内容分析 |
+| Gemini Advanced | Gemini 订阅、Gemini Advanced 开通、Google AI 会员 | Google 生态用户、Gmail / Docs / Drive 使用者 |
+
+下单前建议先确认：开通方式、交付时间、是否自己账号、掉订阅处理、退款规则、售后质保范围。订阅类产品存在账号风控和地区支付限制，不建议只看低价，优先选择说明清楚、售后边界明确的服务。
 
 现在主流 AI 工具越来越多，常见的有 ChatGPT、Claude、Grok、Gemini。  
 很多人第一次订阅时会遇到几个问题：
